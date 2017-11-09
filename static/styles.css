@@ -1,0 +1,21 @@
+h3{
+	text-decoration: underline;
+	margin: 20px;
+}
+p{
+	margin: 10px;
+}
+#wrapper{
+	margin: 20px;
+	text-align: right;
+}
+.section{
+	border: 1pt solid black;
+	width: 100%;
+	margin: 10px 0px;
+	text-align: left;
+}
+.block{
+	display: inline-block;
+	vertical-align: top;
+}
